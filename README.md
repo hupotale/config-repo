@@ -1,2 +1,2 @@
-# test
-我的第一个项目
+# config-repo
+Spring Cloud微服务实战配置文件
